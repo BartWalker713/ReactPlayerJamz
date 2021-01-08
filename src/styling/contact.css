@@ -1,0 +1,16 @@
+body {
+  
+    background-color: black;
+    color: red;
+    font-family: "Big Shoulder Stencil Text";
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    color: red;
+    font-size: 25px;
+    font-family: "Big Shoulders Stencil Text", cursive;
+  }
